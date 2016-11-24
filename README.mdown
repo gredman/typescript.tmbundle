@@ -1,0 +1,6 @@
+TypeScript.tmbundle
+===================
+
+TypeScript syntax files from
+[Microsoft](https://github.com/Microsoft/TypeScript-TmLanguage), packaged for
+TextMate.
